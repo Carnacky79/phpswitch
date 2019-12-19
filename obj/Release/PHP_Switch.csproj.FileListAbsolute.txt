@@ -1,0 +1,10 @@
+C:\Users\carna\Desktop\PHP_Switch\bin\Release\PHP_Switch.exe.config
+C:\Users\carna\Desktop\PHP_Switch\bin\Release\PHP_Switch.exe
+C:\Users\carna\Desktop\PHP_Switch\bin\Release\PHP_Switch.pdb
+C:\Users\carna\Desktop\PHP_Switch\obj\Release\PHP_Switch.csprojAssemblyReference.cache
+C:\Users\carna\Desktop\PHP_Switch\obj\Release\PHP_Switch.Form1.resources
+C:\Users\carna\Desktop\PHP_Switch\obj\Release\PHP_Switch.Properties.Resources.resources
+C:\Users\carna\Desktop\PHP_Switch\obj\Release\PHP_Switch.csproj.GenerateResource.cache
+C:\Users\carna\Desktop\PHP_Switch\obj\Release\PHP_Switch.exe
+C:\Users\carna\Desktop\PHP_Switch\obj\Release\PHP_Switch.pdb
+C:\Users\carna\Desktop\PHP_Switch\obj\Release\PHP_Switch.options.resources
